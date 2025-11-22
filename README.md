@@ -5,17 +5,17 @@ all made by faust504 by the help of youtube tutorials and googling errors
 
 <br>
 
-## 📁 [Project 1 - Folder File Type Organizer](./project1/)
+## 📁 [Project 1 - Folder File Type Organizer](./project1/readme.md)
 automatically organizes files in folders by their file types. creates subdirectories and sorts files accordingly for better file management
 
 ---
 
-## 🧮 [Project 2 - Low Budget Calculator](./project2/)
+## 🧮 [Project 2 - Low Budget Calculator](./project2/readme.md)
 lightweight calculator via CLI designed for basic arithmetic operations with minimal resource usage
 
 ---
 
-## 🚀 [Project 3 - Coming Soon](./project3/)
+## 🚀 [Project 3 - Coming Soon](./project3/readme.md)
 *Placeholder for upcoming project*
 
 ---
